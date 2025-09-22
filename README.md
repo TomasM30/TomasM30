@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Currently on the third year of the Bachelor's Degree in Informatics and Computing Engineering at FEUP;<br>🛠️ Interested in web development and software engineering;</p>
+<p align="left">💻 Currently on the second yearof the Master Degree in Informatics and Computing Engineering at FEUP;<br>🛠️ Interested in web development and software engineering;</p>
 
 ###
 
